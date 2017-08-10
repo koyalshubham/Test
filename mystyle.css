@@ -8,15 +8,23 @@
 .col-xs-4{
     width: 33.333333333%;
     display: inline-block;
-    border: solid 2px black;
+    /*border: solid 2px black;*/
     box-sizing: border-box;
     float: left;
+    height: 800px;
 }
 
 h1{
     text-align: center;
 }
 
-.boxie{
+p{
+    background: red;
+    display: block;
     width: 300px;
+    text-align: center;
+    position: relative;
+    left: 25%;
+    height: 300px;
+    border: solid 2px black;
 }
