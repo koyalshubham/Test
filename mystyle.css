@@ -1,0 +1,10 @@
+.row{
+    width:auto;
+    display: inline-block;
+}
+
+.col-xs-4{
+    width: 30%;
+    border: solid 2px black;
+    box-sizing: border-box;
+}
