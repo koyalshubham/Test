@@ -9,7 +9,7 @@
     width: 33.333333333%;
     display: inline-block;
     border: solid 2px black;
-    box-sizing: border-box;
+    /*box-sizing: border-box;*/
     float: left;
 }
 
